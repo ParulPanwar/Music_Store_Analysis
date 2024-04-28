@@ -44,9 +44,9 @@ country. Write a query that returns the country along with the top customer and 
 much they spent. For countries where the top amount spent is shared, provide all
 customers who spent this amount.
 
-## Entity-Relationship Diagram (ERD)
+## Schema- Music Store Database
 
-An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
+Schema has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
 helps in identifying key entities and their attributes.
 
