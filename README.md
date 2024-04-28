@@ -46,6 +46,8 @@ customers who spent this amount.
 
 ## Schema- Music Store Database
 
+ ![](https://github.com/ParulPanwar/Music_Store_Analysis/blob/main/Schema%20for%20music%20analysis%20project.png)
+
 Schema has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
 helps in identifying key entities and their attributes.
